@@ -79,16 +79,7 @@ Or use VS Code Live Server.
 
 ---
 
-# 🚀 Future Improvements
 
-- Course Search
-- Dark Mode
-- Login & Registration
-- Course Details Page
-- Instructor Profile
-- Pricing Section
-- Contact Form
-- Animations using GSAP/AOS
 
 ---
 
