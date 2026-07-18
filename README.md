@@ -79,10 +79,6 @@ Or use VS Code Live Server.
 
 ---
 
-
-
----
-
 # 💡 Key Learnings
 
 - Semantic HTML5
