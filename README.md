@@ -97,7 +97,6 @@ Or use VS Code Live Server.
 **Minar Hossain**
 
 - GitHub: https://github.com/minar-hossain82
-- Portfolio: https://minar-portfolio.vercel.app/
 - LinkedIn: www.linkedin.com/in/minar-hossain-450820380
 
 ---
