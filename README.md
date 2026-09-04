@@ -6,10 +6,6 @@ EduWeb is a modern, responsive e-learning landing page designed to showcase onli
 
 🔗 https://minar-eduweb.vercel.app
 
-## 📂 GitHub Repository
-
-🔗 https://github.com/minar-hossain82/eduweb
-
 ---
 
 # ✨ Features
@@ -96,7 +92,6 @@ Or use VS Code Live Server.
 
 **Minar Hossain**
 
-- GitHub: https://github.com/minar-hossain82
 - LinkedIn: www.linkedin.com/in/minar-hossain-450820380
 
 ---
